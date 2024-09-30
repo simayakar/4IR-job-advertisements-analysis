@@ -1,10 +1,7 @@
 # 4IR-job-advertisements-analysis
 Trend of Fourth Industrial Revolution in Four Countries by Analyzing Job Advertisements
 
-
-![_Language Techniques Presentation Graphic Notepad Pastel Style (2)](https://github.com/user-attachments/assets/dc4c4135-a28d-49dd-8bd8-2f0118f0888d)
-
-
+![lose the chances](https://github.com/user-attachments/assets/d54e1cc9-106f-4bc0-b21a-24907887ccf3)
 
 
 ### Project Summary
